@@ -513,8 +513,8 @@ Authentication:
 - Single developer.
 - MVP only.
 - Development time:
-    - 1–1.5 hours/day
-    - 2–3 hours on Sundays
+  - 1–1.5 hours/day
+  - 2–3 hours on Sundays
 
 ---
 
