@@ -1,325 +1,400 @@
-> ⚠️ **Internal Document**
->
-> This Product Requirements Document (PRD) is the official planning document for the WorkVerse MVP.
-> It defines the product vision, objectives, requirements, and scope.
-> This document will evolve throughout the product development lifecycle.
-
 # 📄 Product Requirements Document (PRD)
 
 # WorkVerse
 
-**Version:** 1.0
+**Version:** 2.0
 
-**Project Status:** Planning Phase
+**Status:** Product Definition
 
 **Founder:** Mahammed Sirajuddin
 
-**Date:** July 2026
+**Prepared By:** WorkVerse Product Team
+
+**Last Updated:** July 2026
 
 ---
 
-# 🚀 Project Overview
+# 1. Executive Summary
 
-WorkVerse is a career simulation platform designed to bridge the gap between academic learning and real-world industry experience.
+## Product Name
 
-Instead of teaching concepts through passive videos or traditional courses, WorkVerse immerses students in a virtual company where they perform realistic daily tasks based on professional roles within the IT and Cybersecurity industries.
+**WorkVerse**
 
-The platform aims to help students and fresh graduates understand workplace expectations, gain practical experience, and build confidence before joining their first company.
+## Product Category
 
----
+AI-Powered Career Simulation Platform
 
-# 🌍 Vision
+## Tagline
 
-To become the world's most trusted platform for practical industry experience, enabling every student to confidently transition from education to employment through immersive workplace simulations.
+> Experience Your First Software Engineering Job Before You Get Hired.
 
----
+## One-Line Description
 
-# 🎯 Mission
-
-Help students experience the job before they get the job.
-
-By combining role-based simulations, practical daily tasks, AI mentorship, and gamified learning, WorkVerse prepares learners for the realities of modern software and cybersecurity careers.
+WorkVerse is an AI-powered career simulation platform that enables aspiring backend engineers to experience a realistic software engineering internship before entering the real industry.
 
 ---
 
-# ❗ Problem Statement
+# 2. Vision Statement
 
-Although students spend years learning programming languages and technical concepts, many graduate without understanding how real companies operate.
-
-Common challenges include:
-
-* Lack of practical workplace exposure
-* Fear of the first job
-* Limited understanding of professional responsibilities
-* Difficulty adapting to company workflows
-* Low confidence during onboarding
-
-Current learning resources often explain technologies but rarely simulate day-to-day industry work.
+To become the world's leading career simulation platform where students gain practical workplace experience before joining their first software company.
 
 ---
 
-# 💡 Proposed Solution
+# 3. Mission Statement
 
-WorkVerse provides an immersive virtual workplace where users become employees inside a simulated company.
-
-Students can:
-
-* Select a career role
-* Join a virtual company
-* Complete realistic industry tasks
-* Learn with an AI Mentor
-* Track progress and achievements
-* Build practical confidence before employment
+Bridge the gap between education and industry through immersive AI-powered workplace simulations that prepare students for real engineering careers.
 
 ---
 
-# 👥 Target Audience
+# 4. Problem Statement
 
-## Primary Audience
+Students graduate with:
 
-* Final-year CSE and IT students
-* Fresh graduates
-* Entry-level job seekers
+- Programming knowledge
+- Academic projects
+- Good grades
 
-## Secondary Audience
+However, most students have never experienced:
 
-* Career switchers
-* Self-taught developers
-* Coding bootcamp students
-* Technical diploma students
+- Engineering workflows
+- Sprint planning
+- Task assignments
+- Code reviews
+- Daily standups
+- Working with managers
+- Team communication
 
----
-
-# 🎯 Product Goals
-
-## Primary Goals
-
-* Reduce the gap between academics and industry
-* Improve workplace readiness
-* Increase learner confidence
-* Encourage practical learning
-* Build a consistent daily learning habit
-
-## Business Goals
-
-* Build an active student community
-* Validate product-market fit
-* Reach the first 100 active users
-* Prepare for premium features after MVP validation
+This creates uncertainty and anxiety during their first job.
 
 ---
 
-# 🚫 Non-Goals (MVP)
+# 5. Solution
 
-The first version of WorkVerse will **not** include:
+WorkVerse transforms learning into a realistic engineering internship.
 
-* Recruiter dashboard
-* College dashboard
-* Company dashboard
-* Team collaboration
-* Live mentors
-* Advanced AI task generation
-* Resume builder
-* Interview platform
-* Placement services
-* Mobile application
+Instead of watching tutorials, students:
 
-These features are planned for future releases after validating the core product.
+- Join a virtual software company
+- Receive realistic work assignments
+- Complete engineering sprints
+- Learn through practical implementation
+- Receive AI-powered guidance
+- Build confidence through simulated industry experience
 
 ---
 
-# 🏢 Core Product Concept
+# 6. Product Vision
 
-The user does not simply watch lessons.
+Students should never feel like they are completing an online course.
 
-Instead, they become an employee inside a virtual company.
-
-Typical journey:
-
-1. Create an account
-2. Join the virtual company
-3. Select a professional role
-4. Receive onboarding
-5. Complete daily work tasks
-6. Learn with AI guidance
-7. Earn experience points (XP)
-8. Unlock achievements
-9. Complete assessments
-10. Receive a completion certificate
+They should feel like they have joined a real software company.
 
 ---
 
-# 🎮 MVP Features
+# 7. Target Audience
 
-## Authentication
+Primary Users
 
-* Google Sign-In
-* User profile creation
+- Final-Year Students
+- Fresh Graduates
+- Self-Learners
+- Career Switchers
 
----
+Age Group
 
-## Student Dashboard
+16–35 Years
 
-* Welcome dashboard
-* Daily task overview
-* Progress tracking
-* Current role
-* Skill level
-* XP
-* Daily streak
-* Certificates
+Primary Country
 
----
+India
 
-## Career Roles (Initial MVP)
+Primary Language
 
-* Full-Stack Developer
-* Backend Developer
-* SOC Analyst
-
-Future versions will include additional IT and cybersecurity roles.
+English
 
 ---
 
-## Task System
+# 8. MVP Definition
 
-Each role contains:
+The MVP focuses on one internship program.
 
-* Beginner tasks
-* Intermediate tasks
-* Advanced tasks
-* Mini project
-* Assessment
+Company
 
-Tasks simulate real workplace responsibilities.
+WorkVerse Technologies
 
----
+Department
 
-## AI Mentor
+Backend Engineering
 
-The AI Mentor provides:
+Position
 
-* Concept explanations
-* Hints
-* Learning guidance
-* Feedback
-* Recommended resources
+Backend Engineering Intern
 
-The AI Mentor supports learning but does not replace the student's problem-solving process.
+Duration
+
+8 Weeks
+
+Daily Time
+
+20–30 Minutes
 
 ---
 
-## Gamification
+# 9. Core Experience
 
-* XP system
-* Daily streaks
-* Progress bars
-* Achievements
-* Skill levels
+The learner joins WorkVerse Technologies as a Backend Engineering Intern.
 
----
+Throughout the internship they will:
 
-## Certification
-
-Certificates include:
-
-* Student Name
-* Role Completed
-* Completion Date
-* Certificate ID
-
-Future versions will add QR-based verification.
+- Receive work assignments
+- Attend virtual sprint planning
+- Build backend features
+- Receive AI guidance
+- Complete code reviews
+- Earn promotions
+- Receive a final internship completion report
 
 ---
 
-# 🛠 Technology Stack
+# 10. Core Features
 
-## Frontend
+## Virtual Software Company
 
-* React.js
-* Vite
-* Tailwind CSS
-
-## Backend
-
-* Node.js
-* Express.js
-
-## Database
-
-* MongoDB Atlas
-
-## Authentication
-
-* Google OAuth
-
-## Version Control
-
-* GitHub
-
-## Deployment
-
-* Vercel
-* Render
+Students experience a realistic company environment.
 
 ---
 
-# 📈 Success Metrics (MVP)
+## Engineering Manager
 
-The MVP will be considered successful if it achieves:
+Assigns work.
 
-* 100 registered users
-* 40% weekly active users
-* 30 learners completing at least one role
-* Positive feedback from at least 20 users
-* High task completion and return rates
+Provides feedback.
+
+Conducts reviews.
 
 ---
 
-# 🚀 Future Roadmap
+## AI Senior Engineer
 
-Future releases may include:
+Provides:
 
-* Additional IT roles
-* Additional cybersecurity roles
-* AI-generated tasks
-* Recruiter portal
-* College partnerships
-* Company partnerships
-* Verified certificates
-* Team simulations
-* Interview preparation
-* Mobile application
+- Guidance
+- Debugging help
+- Code suggestions
+- Learning support
 
 ---
 
-# ⚠ Risks
+## Sprint System
 
-* Expanding the MVP scope too early
-* Limited user validation before launch
-* Low user retention
-* AI integration complexity
-* Infrastructure scaling as the platform grows
-
-Mitigation strategy:
-
-* Launch a focused MVP
-* Gather feedback early
-* Iterate based on user behavior
-* Prioritize core value over feature quantity
+Learning is organized into weekly engineering sprints.
 
 ---
 
-# 🏆 Success Vision
+## Work Assignments
 
-WorkVerse aims to become the platform students open every day to experience real industry work, develop confidence, and prepare for successful careers.
+Instead of lessons.
 
-Rather than simply learning technologies, users will gain practical workplace experience before joining their first company.
+Students complete realistic engineering work.
 
 ---
 
-# 📌 Product Principle
+## Performance Dashboard
 
-> **Experience the job before you get the job.**
+Shows:
 
-Every feature, design decision, and technical implementation must support this mission.
+- XP
+- Level
+- Daily Streak
+- Sprint Progress
+- Completed Assignments
+
+---
+
+## Internship Completion Report
+
+Summarizes:
+
+- Skills
+- Performance
+- Strengths
+- Areas for Improvement
+
+---
+
+# 11. User Journey
+
+Candidate
+
+↓
+
+Intern
+
+↓
+
+Backend Engineering Intern
+
+↓
+
+Sprint Completion
+
+↓
+
+Promotion
+
+↓
+
+Internship Completion
+
+↓
+
+Industry Ready Backend Developer
+
+---
+
+# 12. Success Metrics
+
+Product Success
+
+- Registered Users
+- Daily Active Users
+- Assignment Completion Rate
+- Internship Completion Rate
+- Returning Users
+
+Learning Success
+
+- Confidence Improvement
+- Practical Skill Improvement
+- Internship Completion Score
+
+---
+
+# 13. Business Model
+
+Platform Access
+
+Free
+
+Internship Completion Report
+
+Paid
+
+Future
+
+Premium Internship Programs
+
+Company Partnerships
+
+Recruiter Verification
+
+---
+
+# 14. Technology Stack
+
+Frontend
+
+- React
+- Vite
+- Tailwind CSS
+
+Backend
+
+- Node.js
+- Express.js
+
+Database
+
+MongoDB
+
+Authentication
+
+Google OAuth
+
+AI
+
+AI-powered mentoring and evaluation
+
+Deployment
+
+To be finalized
+
+---
+
+# 15. Product Principles
+
+WorkVerse should always:
+
+- Feel like a real company
+- Teach through practical work
+- Reward consistency
+- Reduce fear
+- Build confidence
+- Encourage continuous improvement
+
+---
+
+# 16. Non-Goals (MVP)
+
+The first release will NOT include:
+
+- Multiple departments
+- Team collaboration
+- Recruiter dashboard
+- Company dashboard
+- Mobile application
+- Live multiplayer
+- Leaderboards
+
+These will be considered after validating the MVP.
+
+---
+
+# 17. Future Vision
+
+Future internship programs may include:
+
+- Frontend Engineering
+- Full Stack Engineering
+- DevOps
+- Cloud Engineering
+- AI Engineering
+- Cybersecurity
+- Data Engineering
+
+The long-term vision is to create a complete virtual ecosystem where learners can experience different technology careers before entering the workforce.
+
+---
+
+# 18. Competitive Advantage
+
+Unlike traditional learning platforms, WorkVerse focuses on:
+
+- Workplace simulation
+- AI-powered mentoring
+- Sprint-based learning
+- Practical engineering assignments
+- Professional growth
+- Career readiness
+
+The platform teaches students how software companies actually work rather than only teaching technical concepts.
+
+---
+
+# 19. Product Success Definition
+
+The product is successful when a learner finishes the internship and says:
+
+> "Now I understand what my first software engineering job will actually feel like."
+
+---
+
+# 20. Final Statement
+
+WorkVerse is not another online learning platform.
+
+It is an AI-powered career simulation platform designed to transform students into industry-ready professionals through immersive workplace experiences.
+
+---
+
+> **Don't Just Learn the Skills. Experience the Career.**
