@@ -89,3 +89,176 @@ English
 ## Brand Promise
 
 Every learner should leave WorkVerse with more confidence, practical experience, and a better understanding of how real software companies operate.
+
+---
+
+# 2. Color System
+
+## Design Philosophy
+
+The WorkVerse color palette is designed to create a feeling of:
+
+- Trust
+- Innovation
+- Growth
+- Achievement
+- Professionalism
+
+The design should feel similar to premium SaaS platforms while remaining unique.
+
+---
+
+## Primary Color
+
+**Royal Blue**
+
+Hex Code:
+
+#2563EB
+
+Purpose:
+
+- Primary Buttons
+- Navigation
+- Important Links
+- Active States
+
+Meaning:
+
+Trust, confidence, technology.
+
+---
+
+## Secondary Color
+
+**Purple**
+
+Hex Code:
+
+#7C3AED
+
+Purpose:
+
+- AI Mentor
+- Premium Features
+- Highlights
+
+Meaning:
+
+Innovation, intelligence, future.
+
+---
+
+## Success Color
+
+Hex Code:
+
+#22C55E
+
+Purpose:
+
+- Completed Tasks
+- Success Messages
+- XP Rewards
+
+---
+
+## Warning Color
+
+Hex Code:
+
+#F59E0B
+
+Purpose:
+
+- Pending Tasks
+- Reminders
+- Streak Warnings
+
+---
+
+## Error Color
+
+Hex Code:
+
+#EF4444
+
+Purpose:
+
+- Validation Errors
+- Failed Actions
+- Alerts
+
+---
+
+## Information Color
+
+Hex Code:
+
+#06B6D4
+
+Purpose:
+
+- Tips
+- Learning Resources
+- Information Cards
+
+---
+
+## Background Colors
+
+Light Theme
+
+Primary Background
+
+#F8FAFC
+
+Secondary Background
+
+#FFFFFF
+
+---
+
+Dark Theme
+
+Primary Background
+
+#0F172A
+
+Secondary Background
+
+#1E293B
+
+---
+
+## Text Colors
+
+Primary Text
+
+#0F172A
+
+Secondary Text
+
+#64748B
+
+Light Text
+
+#FFFFFF
+
+---
+
+## Border Color
+
+#E2E8F0
+
+---
+
+## Color Usage Rules
+
+- Blue is the primary action color.
+- Purple is reserved for AI-related features.
+- Green indicates success.
+- Yellow indicates caution.
+- Red indicates errors.
+- Cyan is used only for informational elements.
+- Avoid using more than three accent colors on the same screen.
