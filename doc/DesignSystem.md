@@ -262,3 +262,159 @@ Light Text
 - Red indicates errors.
 - Cyan is used only for informational elements.
 - Avoid using more than three accent colors on the same screen.
+
+---
+
+# 3. Typography System
+
+## Design Philosophy
+
+Typography should be clean, modern, readable, and professional.
+
+Users should be able to scan information quickly without visual clutter.
+
+---
+
+## Primary Font
+
+**Poppins**
+
+Purpose:
+
+- Headings
+- Navigation
+- Buttons
+- Hero Sections
+
+Reason:
+
+Poppins has a modern geometric appearance that feels clean, friendly, and premium.
+
+---
+
+## Secondary Font
+
+**Inter**
+
+Purpose:
+
+- Paragraphs
+- Cards
+- Forms
+- Dashboard
+- Descriptions
+
+Reason:
+
+Inter is optimized for digital interfaces and offers excellent readability across all screen sizes.
+
+---
+
+## Font Hierarchy
+
+### H1
+
+Size: 48px
+
+Weight: Bold (700)
+
+Used For:
+
+- Landing Page Hero
+- Major Titles
+
+---
+
+### H2
+
+Size: 36px
+
+Weight: Semi Bold (600)
+
+Used For:
+
+- Section Titles
+
+---
+
+### H3
+
+Size: 28px
+
+Weight: Semi Bold (600)
+
+Used For:
+
+- Dashboard Titles
+- Card Titles
+
+---
+
+### H4
+
+Size: 22px
+
+Weight: Medium (500)
+
+Used For:
+
+- Subsections
+
+---
+
+### Body Large
+
+Size: 18px
+
+Weight: Regular (400)
+
+Used For:
+
+- Important descriptions
+
+---
+
+### Body Normal
+
+Size: 16px
+
+Weight: Regular (400)
+
+Used For:
+
+- General text
+- Forms
+- Dashboard
+
+---
+
+### Small Text
+
+Size: 14px
+
+Weight: Regular (400)
+
+Used For:
+
+- Labels
+- Captions
+- Helper Text
+
+---
+
+## Text Rules
+
+- Never use more than two font families.
+- Maintain consistent spacing between headings and paragraphs.
+- Use bold only for emphasis.
+- Keep paragraph width comfortable for reading.
+- Avoid using very small text below 14px.
+
+---
+
+## Accessibility
+
+- Maintain high contrast between text and background.
+- Ensure readability in both Light and Dark modes.
+- Avoid decorative fonts.
+- Support responsive font scaling for mobile devices.
