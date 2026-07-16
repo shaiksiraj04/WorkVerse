@@ -1,20 +1,3 @@
-                    Internet
-                        │
-                        ▼
-              React + Tailwind CSS
-                 (Frontend)
-                        │
-                    REST API
-                        │
-                        ▼
-            Node.js + Express.js
-                 (Backend)
-                        │
-         ┌──────────────┴──────────────┐
-         ▼                             ▼
-   MongoDB Atlas                  AI Mentor
-                                   (LLM/API)
-
 > ⚠️ **Internal Engineering Document**
 >
 > This Architecture Document defines the complete software architecture of the WorkVerse MVP.
