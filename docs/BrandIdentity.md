@@ -383,13 +383,19 @@ Selected Concept
 
 Concept 1 – Hexagon + W + Upward Arrow
 
-Meaning
+## Logo Reference
+
+![WorkVerse Logo](../assets/branding/logo-reference.png)
+
+> **Note:** This is the approved logo concept (Version 1). A final vector (SVG) version will be created before the public launch.
+
+### Meaning
 
 - Hexagon represents engineering, precision, and technology.
 - The letter "W" represents WorkVerse.
 - The upward arrow symbolizes career growth and continuous learning.
 
-Usage
+### Usage
 
 - Website Header
 - Dashboard
